@@ -1,5 +1,0 @@
-d:\Seminar\Projects\MyCollections\MyCollections\obj\Debug\ResolveAssemblyReference.cache
-d:\Seminar\Projects\MyCollections\MyCollections\bin\Debug\MyCollections.dll
-d:\Seminar\Projects\MyCollections\MyCollections\bin\Debug\MyCollections.pdb
-d:\Seminar\Projects\MyCollections\MyCollections\obj\Debug\MyCollections.dll
-d:\Seminar\Projects\MyCollections\MyCollections\obj\Debug\MyCollections.pdb
