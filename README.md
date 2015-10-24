@@ -7,7 +7,10 @@ The Array class is an industrial strength dynamic array class with events, sorti
 
 The sorting is achieved via the Stack class - which supports the non-recursive merge sort.
 
-Many other features are freely available in I++ - which may be downloaded from Source Forge.
+Many other features are freely available in <a href=https://sourceforge.net/projects/iplusplus>I++</a>.
+
+The Set Theory Assembly may also be obtained from <a href= http://sf.net/projects/avl-trees/>Source Forge</a>.
+
 
 The Balancing Algorithms may be found in Utility.cs.
 
