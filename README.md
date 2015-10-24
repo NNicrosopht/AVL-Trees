@@ -18,4 +18,4 @@ The Set class is the base class for AVL Trees. The Tree class derives from Set. 
 
 Sets support events. These events may be used to connect tree collections together.
 
-Supporting documentation may be found at http://NNicrosopht.net/Html/English/Sets.
+Supporting documentation may be found at <a href=http://NNicrosopht.net/Html/English/Sets.html>NNicrosopht.Net</a>.
