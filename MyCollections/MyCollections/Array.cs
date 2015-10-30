@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright (c) NNicrosopht 1989-2015
+﻿
+using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
