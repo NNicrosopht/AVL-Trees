@@ -1,7 +1,5 @@
 ﻿// Copyright (c) NNicrosopht 1989-2015
-﻿
 ﻿// HashSet
-// Copyright Benedict McNamara 2006 - 2012, All Rights Reserved 
 
 using System;
 using System.Collections.Generic;
