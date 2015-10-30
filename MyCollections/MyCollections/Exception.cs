@@ -1,3 +1,5 @@
+﻿// Copyright (c) NNicrosopht 1989-2015
+﻿
 ﻿using System;
 
 namespace ISharp.Collections
