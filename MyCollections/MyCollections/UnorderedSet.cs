@@ -1,4 +1,4 @@
-﻿// Copyright (c) Benedict Bede McNamara 1989-2015
+﻿// Copyright (c) NNicrosopht 1989-2015
 
 using System;
 using System.Collections.Generic;
